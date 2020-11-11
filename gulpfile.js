@@ -31,7 +31,7 @@ gulp.task('ship-to-gitlab', function (done) {
 
         for (var changedFileName of changedFileNames.split(',')) {
 
-            if (changedFileName !== null && changedFileName !== '') {
+            if (changedFileName !== null && changedFileName !== '' && changedFileName !== '.gitignore' && changedFileName !== 'Jenkinsfile' && !changedFileName.includes('.gitlab')) {
 
                 if (fs.existsSync('../reactjs-docs/' + changedFileName)) {
                     // It will update the modified files
