@@ -1,4 +1,4 @@
-# Syncfusion ReactJS Documentation
+﻿# Syncfusion ReactJS Documentation
 
 This is the GitHub repository for the technical product documentation for Syncfusion ReactJS components. This documentation is published to http://help.syncfusion.com/reactjs
 
