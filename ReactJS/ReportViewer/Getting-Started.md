@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Getting Started
-description: getting started
-platform: React JS
+title: Getting Started with React JS ReportViewer Control | Syncfusion
+description: Learn here about getting started with Syncfusion React JS ReportViewer Control, its elements, and more.
+platform: ReactJS
 control: ReportViewer
 documentation: ug
 ---
 
-# Getting Started
+# Getting Started with React JS ReportViewer
 
 This section explains briefly about how to create a ReportViewer in React JS.
 
@@ -98,7 +98,7 @@ N> The above jsx template needs to be converted from `.jsx` to `.js` extension b
 
 Run the sample application and you can see the ReportViewer on the page as displayed in the following screenshot.
 
-![](Getting-Started_images/Getting-Started_img1.png) 
+![Getting-Started_images1](Getting-Started_images/Getting-Started_img1.png) 
 
 ReportViewer with Grouping Aggregate Report
 {:.caption}
@@ -137,7 +137,7 @@ Initialize the ReportViewer control by adding the following script code to the b
 
 Run the application and you can see the ReportViewer on the page as displayed in the following screenshot.
 
-![](Getting-Started_images/Getting-Started_img1.png) 
+![Getting-Started_images2](Getting-Started_images/Getting-Started_img1.png) 
 
 ReportViewer with Grouping Aggregate Report
 {:.caption}
@@ -167,7 +167,7 @@ Set the `reportPath` from SSRS and SSRS `reportServerUrl` in the ReportViewer pr
 
 Run the application and you can see the ReportViewer on the page as displayed in the following screenshot.
 
-   ![](Getting-Started_images/Getting-Started_img2.png) 
+   ![Getting-Started_images3](Getting-Started_images/Getting-Started_img2.png) 
    
    Report from SSRS
    {:.caption}
@@ -207,7 +207,7 @@ Initialize the ReportViewer control by adding the following script code to the b
 
 Run the application and you can see the ReportViewer on the page as displayed in the following screenshot.
 
-   ![](Getting-Started_images/Getting-Started_img2.png) 
+   ![Getting-Started_images4](Getting-Started_images/Getting-Started_img2.png) 
    
    Report from SSRS
    {:.caption}   
@@ -247,7 +247,7 @@ Assign the RDLC report path to ReportViewer’s `reportPath` property and set th
 
 Run the application and you can see the ReportViewer on the page as displayed in the following screenshot.
 
-   ![](Getting-Started_images/Getting-Started_img3.png) 
+   ![Getting-Started_images5](Getting-Started_images/Getting-Started_img3.png) 
    
    Area Chart RDLC Report
    {:.caption}
@@ -297,7 +297,7 @@ Initialize the ReportViewer control by adding the following script code to the b
 
 Run the application and you can see the ReportViewer on the page as displayed in the following screenshot.
 
-   ![](Getting-Started_images/Getting-Started_img3.png) 
+   ![Getting-Started_images6](Getting-Started_images/Getting-Started_img3.png) 
    
    Area Chart RDLC Report
    {:.caption}

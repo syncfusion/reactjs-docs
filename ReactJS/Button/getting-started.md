@@ -1,13 +1,13 @@
 ---
 layout: post
-title: create a Button in ReactJS framework 
-description: create a Button in ReactJS framework 
+title: Getting Started with ReactJS Button Control | Syncfusion
+description: Learn here about getting started with Syncfusion Essential ReactJS Button Control, its elements, and more.
 platform: ReactJS
 control: Button
 documentation: ug
 ---
 
-# Getting Started
+# Getting Started with ReactJS Button
 
 This section explains briefly about how to create a Button in your application with ReactJS.
 
@@ -55,7 +55,7 @@ Run the above code to render the following output.
 
 
 
-![](getting-started_images/getting-started_img1.jpg)
+![getting-started_images1](getting-started_images/getting-started_img1.jpg)
 
 #### Configuring Button
 

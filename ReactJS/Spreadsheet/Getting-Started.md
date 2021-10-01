@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Getting Started for ReactJS Spreadsheet
-description: How to create a Spreadsheet with data source, apply format and export it as excel file.
+title: Getting Started with ReactJS Spreadsheet Control | Syncfusion
+description: Learn here about getting started with Syncfusion ReactJS Spreadsheet Control, its elements, and more.
 platform: ReactJS
 control: Spreadsheet
 documentation: Ug
 keywords: 
 ---
 
-# Getting started
+# Getting started with ReactJS Spreadsheet
 
 This section explains you the steps required to populate the Spreadsheet with data, format, and export it as excel file. This section covers only the minimal features that you need to know to get started with the Spreadsheet.
 
@@ -88,7 +88,7 @@ Add a `div` container to render the Spreadsheet in HTML file.To translate JSX 
 
 Now, the Spreadsheet is rendered with default row and column count.
 
-![](Getting-Started_images/Getting-Started_img1.png)
+![Getting-Started_images1](Getting-Started_images/Getting-Started_img1.png)
 
 ## Populate Spreadsheet with data
 
@@ -123,7 +123,7 @@ document.getElementById('spreadsheet')
 
 {% endhighlight %}
 
-![](Getting-Started_images/Getting-Started_img2.png)
+![Getting-Started_images2](Getting-Started_images/Getting-Started_img2.png)
 
 ## Apply Conditional Formatting
 
@@ -160,7 +160,7 @@ document.getElementById('spreadsheet')
 
 {% endhighlight %}
 
-![](Getting-Started_images/Getting-Started_img3.png)
+![Getting-Started_images3](Getting-Started_images/Getting-Started_img3.png)
 
 ## Export Spreadsheet as Excel File
 
